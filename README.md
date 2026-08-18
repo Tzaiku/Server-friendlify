@@ -1,6 +1,10 @@
 # Serverify
+THIS IS A WIP
+
 Script that identifies minecraft mod folders, then makes server-friendly copy.
 
-This script, when run, will navigate to the instance (modpack) of curseforge you select, identify client-side mods and then make a copy of the "mods" folder without them.
-The script this code uses for identifying client-side mods was written by laurorual, you can find the original script here:
+I created this script because I had always found it tedious to manuallly look for client-side mods in 50+ mod modpacks I create, then deleting them for the server to work, or making the modpack with only server-side mods the copying it, pasting it, then installing... with this script you can make the modpack as you would use it, run the code, and place the server-friendly copy it will create into your server.
+
+The script this code uses for identifying client-side mods was written by laurorual, and therefore needs the same packages (requests and tqdm).
+The original script is in Portuguese, however this version is in English. You can find the original script here:
     https://github.com/laurorual/Mod-Checker.git

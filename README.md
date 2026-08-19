@@ -1,4 +1,4 @@
-# Serverify
+# Server-friendlify
 
 This script has only been tested in Modpacks installed with CurseForge.
 
